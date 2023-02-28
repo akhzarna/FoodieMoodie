@@ -12,7 +12,11 @@ const styles = StyleSheet.create({
     bottomView:{
       flex:3, 
       backgroundColor:'orange'
-    }
+    },
+    bottomViewForTesting:{
+        flex:3, 
+        backgroundColor:'orange'
+      }
   });
   
   export {styles}
